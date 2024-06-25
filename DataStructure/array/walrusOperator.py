@@ -4,4 +4,7 @@ but don't want to repeat the calculation. '''
 
 x="ABC"
 codes=[last:= ord(c) for c in x]
+
 print(codes)
+print(last)
+
