@@ -12,4 +12,5 @@ def handle_class(self,message):
         case['LED', ident, red, green, blue]:
             self.leds[ident].set_color(ident, red, green, blue)
         case _:
-            raise InvalidCommand(message)
+            raise InvalidCommand(message) # type: ignore
+        
