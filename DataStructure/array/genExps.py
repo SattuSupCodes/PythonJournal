@@ -11,3 +11,9 @@ print(myTuple)
 import array
 arr=array.array('I',(ord(symbol) for symbol in symbols))
 print(arr)
+
+# cartesian in genExp
+colors=('red','green')
+sizes=('s','m','l')
+for tshirts in(f'{c} {s}' for c in colors for s in sizes):
+    print(tshirts)
