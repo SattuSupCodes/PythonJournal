@@ -8,3 +8,4 @@ print(tshirts)
 for color in colors:
     for size in sizes:
         print((color, size))
+        
