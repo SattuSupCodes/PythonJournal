@@ -7,4 +7,4 @@ if(choices==a):
 elif(choices==b):
     print("srsly? sup? you could do better")
 else:
-    ("just choose from the options bruh")
+    print("just choose from the options bruh")
