@@ -10,7 +10,7 @@ else:
     print("just choose from the options bruh")
     
 '''nesting conditions'''
-destination=input("choose your destination: ")
+destination=input("choose your destination: ").lower()
 if (destination =='mountain'):
     print('visit Mussoorie')
 else:

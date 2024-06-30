@@ -18,3 +18,6 @@ else:
     
 '''we need to make it look like a tic tac toe board now with user inputs'''
 '''we can use NumPy to create the matrix for the board 3x3'''
+
+position=input("choose positions: ")
+
