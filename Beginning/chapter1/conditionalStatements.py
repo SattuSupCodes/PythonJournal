@@ -8,3 +8,15 @@ elif(choices==b):
     print("srsly? sup? you could do better")
 else:
     print("just choose from the options bruh")
+    
+'''nesting conditions'''
+destination=input("choose your destination: ")
+if (destination =='mountain'):
+    print('visit Mussoorie')
+else:
+    if(destination=='beach'):
+        print('visit Goa')
+    else:
+        print('uhhh')
+    
+    
