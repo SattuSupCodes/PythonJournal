@@ -5,3 +5,4 @@
 a=int(input("enter number: "))
 age=a
 print(a)
+
