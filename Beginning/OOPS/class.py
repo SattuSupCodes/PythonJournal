@@ -4,14 +4,14 @@ It is a logical entity that contains some attributes and methods.'''
 # Class is always written with first letter in caps and ends with parethesis
 # Building a class
 
-class class_name():
-    def __init__(self, parameter):
-        self.property=parameter
+# class class_name():
+#     def __init__(self, parameter):
+#         self.property=parameter
         
-    def class_details(self):
-        print("show me the details: ", self, property)
+#     def class_details(self):
+#         print("show me the details: ", self, property)
         
-object=class_name(argument) #type: ignore
+# object=class_name(argument) #type: ignore
 
 
 class agent():
@@ -19,7 +19,13 @@ class agent():
         self.name=name
         self.health=health
         self.car=car
+        
+    def player_info(self):
+        print("welcome" , self.name)
+        print("your health", self.health)
+        print("your car", self.car)
     
 spy=agent("james bond", 100 , "Porche")
-print(spy)
+a=spy.player_info()
+
         
