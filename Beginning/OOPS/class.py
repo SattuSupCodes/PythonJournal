@@ -28,4 +28,10 @@ class agent():
 spy=agent("james bond", 100 , "Porche")
 spy.player_info()
 
-        
+'''Self.car now holds the value of car. Whatever we pass into our car 
+parameter from our arguments will be the value -> we can use 
+properties just like we do variables
+
+self is like a key. it unlocks all the properties and methods to allow us
+to use them anywhere throughout our class -> essentially turns
+everything 'global' within the class'''
