@@ -26,6 +26,6 @@ class agent():
         print("your car", self.car)
     
 spy=agent("james bond", 100 , "Porche")
-a=spy.player_info()
+spy.player_info()
 
         
