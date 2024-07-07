@@ -13,7 +13,7 @@ class class_name():
         
 object=class_name(argument) #type: ignore
 
-
+# example
 class agent():
     def __init__(self, name, health, car):
         self.name=name
