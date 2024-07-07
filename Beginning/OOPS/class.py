@@ -12,3 +12,14 @@ class class_name():
         print("show me the details: ", self, property)
         
 object=class_name(argument) #type: ignore
+
+
+class agent():
+    def __init__(self, name, health, car):
+        self.name=name
+        self.health=health
+        self.car=car
+    
+spy=agent("james bond", 100 , "Porche")
+print(spy)
+        
