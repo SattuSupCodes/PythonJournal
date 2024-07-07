@@ -4,5 +4,8 @@ has it's own properties and spceial characteristics'''
 '''each object has properties (variables) and are controlled by methods (functions)
 
 A method has to be linked by an object to work'''
+# Creating an object
+
+black_turtle=Turtle() # type: ignore #object called black_turtle and class called Turtle.
 
 
