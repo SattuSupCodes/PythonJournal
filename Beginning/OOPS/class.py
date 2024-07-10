@@ -35,3 +35,9 @@ properties just like we do variables
 self is like a key. it unlocks all the properties and methods to allow us
 to use them anywhere throughout our class -> essentially turns
 everything 'global' within the class'''
+
+class coordinates():
+    def __init__(self, lat, lon):
+        
+       self.lat=lat
+       self.lon=lon
