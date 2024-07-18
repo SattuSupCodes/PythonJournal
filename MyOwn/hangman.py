@@ -13,5 +13,9 @@ guess = input("Guess a letter").lower
 
 print(guess)
 
-
+for letter in secret_word:
+    if letter == guess:
+        print("Right")
+    else:
+        print("Wrong")
     
