@@ -18,6 +18,13 @@ turns=10
 while turns>10:
     failed=0
     
+    for char in li:
+        if char in guesses:
+            print(char, end=""),
+        else:
+            print("_", end="" )
+            failed += 1
+    
 
 
 
