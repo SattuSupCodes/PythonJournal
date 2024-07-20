@@ -3,13 +3,13 @@ import random
 
 print("welcome to hangman")
 
-li=['pineapple', 'apple' , 'orange']
+li= "pineapple"
 
 
 
 secret_word = random.choice(li)
 
-print("Guess the characters")
+
 
 guesses = ''
 
@@ -35,6 +35,9 @@ while turns>10:
     if guess not in li:
         turns -= 1
         print("Wrong")
+        print ("You have", + turns, 'more guesses' )
+        if turns == 0:
+            print("lost the damn soldier")
   
 
 
