@@ -39,7 +39,7 @@ while turns>10:
         if turns == 0:
             print("lost the damn soldier")
   
-
+# i'll fuckin just hang myself instead 
 
     
 
