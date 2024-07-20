@@ -24,6 +24,20 @@ while turns>10:
         else:
             print("_", end="" )
             failed += 1
+            
+    if failed == 0 :
+      print("you won")
+    else:
+      print("oops")
+      break
+  
+    guess = input("guess a character: ")
+    if guess not in li:
+        turns -= 1
+        print("Wrong")
+  
+
+
     
 
 
