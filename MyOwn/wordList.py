@@ -1,0 +1,22 @@
+word_list = (
+    "apple", "banana", "cherry", "date", "elderberry",
+    "fig", "grape", "honeydew", "kiwi", "lemon",
+    "mango", "nectarine", "orange", "papaya", "quince",
+    "raspberry", "strawberry", "tangerine", "ugli", "violet",
+    "watermelon", "xigua", "yam", "zucchini", "avocado",
+    "blueberry", "coconut", "dragonfruit", "eggplant", "fig",
+    "guava", "hibiscus", "jackfruit", "kumquat", "lime",
+    "mulberry", "nectar", "olive", "pineapple", "quinoa",
+    "rose", "saffron", "tomato", "ugli", "vanilla",
+    "walnut", "xanadu", "yarrow", "zebra",
+    "balloon", "bicycle", "butterfly", "carousel", "dolphin",
+    "elephant", "firefly", "giraffe", "hippopotamus", "iguana",
+    "jellyfish", "kangaroo", "koala", "ladybug", "macaw",
+    "narwhal", "octopus", "penguin", "quokka", "raccoon",
+    "seahorse", "turtle", "umbrella", "vulture", "wombat",
+    "xylophone", "yacht", "zeppelin", "acorn", "bamboo",
+    "cactus", "dandelion", "eucalyptus", "fern", "gladiolus",
+    "hydrangea", "iris", "jasmine", "kelp", "lavender",
+    "mushroom", "nectar", "oak", "palm", "quince",
+    "redwood", "sunflower", "tulip", "violet", "willow"
+)
