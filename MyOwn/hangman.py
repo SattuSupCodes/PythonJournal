@@ -38,3 +38,4 @@ if __name__ == "__main__":
   main()
   
 # work in progress
+print(hangman_art[2])
