@@ -49,3 +49,6 @@ try:
     print(f"Element at index {user_index}: {result}")
 except ValueError:
     print("Please enter a valid integer for the index.")
+    
+    
+# dsa is fucking hard, i lose one hp everytime i study it, however i cannot quit T_T
