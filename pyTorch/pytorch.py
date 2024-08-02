@@ -6,4 +6,4 @@ import NumPy as np
 import matplotlib as plt
 print(torch.__version__)
 
-# idek wtf am i doin anymore
+# idek wtf i am doin anymore
