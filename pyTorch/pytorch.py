@@ -5,6 +5,7 @@ import pandas as pd
 import NumPy as np
 import matplotlib as plt
 print(pytorch.__version__)
+print("hello")
 
 # idek wtf i am doin anymore
 
