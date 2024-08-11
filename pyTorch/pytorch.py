@@ -13,3 +13,4 @@ print("hello")
 # another day of not being able to figure this out
 
 print("fuck my life")
+# this runs in colab notebook but NOT HERE WAE WAE WAE
