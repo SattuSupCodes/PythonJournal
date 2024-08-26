@@ -14,3 +14,4 @@ purple_turtle.forward(100)
 purple_turtle.speed=5
 red_turtle.left(120)
 red_turtle.forward(100)
+purple_turtle.forward(80)
