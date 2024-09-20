@@ -1,4 +1,4 @@
-from tryclass import Student, Sattu
+from tryclass import Student, Sattu, functiontry
 
 class Person(Student):
     pass
@@ -12,3 +12,6 @@ class Sat(Sattu):
 
 p2 = Sat()
 print(p2.profile)
+
+functiontry() #can inherit functions
+
