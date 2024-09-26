@@ -2,7 +2,7 @@
 import cv2
 
 # Load the input image
-image = cv2.imread('Image_Processing/oh_my_bholenaath.jpeg')
+image = cv2.imread('Image_Processing/images/oh_my_bholenaath.jpeg')
 cv2.imshow('Original', image)
 cv2.waitKey(0)
 
