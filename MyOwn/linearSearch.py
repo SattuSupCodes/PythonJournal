@@ -52,3 +52,6 @@ except ValueError:
     
     
 # dsa is fucking hard, i lose one hp everytime i study it, however i cannot quit T_T
+
+
+# update 10-10-2024: I wrote this code?! idk how wtf
