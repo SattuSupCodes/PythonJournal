@@ -14,3 +14,4 @@ print(myArray)
 import array as arr 
 a=arr.array('I', [1,2,3])
 print(a)
+# do i even remember how to code lamao
