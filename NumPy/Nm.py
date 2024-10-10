@@ -14,3 +14,4 @@ import NumPy as np
 a = np.arange(12)
 print(a)
 
+# numpy toh bc pta nhi kyu yaha vs pe run hi nhi horhaaaaa 
