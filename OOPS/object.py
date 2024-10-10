@@ -13,3 +13,4 @@ black_turtle=Turtle() # type: ignore #object called black_turtle and class calle
 black_turtle.color("black") #creating property for my turtle and setting its value to be "black"
 black_turtle.forward(50)
 # an object is a variable which is equal to a class(class is collection of objects)
+
