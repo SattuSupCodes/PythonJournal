@@ -20,4 +20,4 @@ else:
 '''we can use NumPy to create the matrix for the board 3x3'''
 
 position=input("choose positions: ")
-
+# smh
