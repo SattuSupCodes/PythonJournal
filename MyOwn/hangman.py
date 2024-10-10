@@ -54,3 +54,4 @@ if __name__ == "__main__":
   main()
   
 # work in progress as i keep learning
+# i forgot where was i here so idk how to restart this wtf
