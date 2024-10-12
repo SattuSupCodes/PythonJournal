@@ -23,4 +23,4 @@ def count_fun(s):
 str4 = str(input("enter your string: "))
 print(count_fun(str4))
 
-# nhi horha 
+# nhi horha but try krte rhenge
