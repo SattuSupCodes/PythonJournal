@@ -2,3 +2,6 @@
 
 def String_slicer():
     pass
+    str = "helloworld"
+    for str in range():
+        pass
