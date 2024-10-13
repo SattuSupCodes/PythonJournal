@@ -23,4 +23,7 @@ def count_fun(s):
 str4 = str(input("enter your string: "))
 print(count_fun(str4))
 
-# nhi horha but try krte rhenge
+# nhi horha but try krte rhenge         
+
+
+# tell me why it ain't ntg but a heartbreak~
