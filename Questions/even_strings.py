@@ -5,3 +5,6 @@ def String_slicer():
     str = "helloworld"
     for str in range():
         pass
+    
+    
+    # tere mere beech mai kya hai? chaddar.
