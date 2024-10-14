@@ -8,3 +8,5 @@ def String_slicer():
     
     
     # tere mere beech mai kya hai? chaddar.
+    
+    # coding makes me wanna often kill myself
