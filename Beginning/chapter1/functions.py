@@ -20,4 +20,4 @@ def beyonce():
        else:
            continue
        
-   
+#    had to thank her to save my life jajajajajaja
