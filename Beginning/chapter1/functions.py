@@ -7,7 +7,7 @@ def substract(num1,num2):
     difference=num1-num2
     print(difference)
     
-def beyonce(Y,N):
+def beyonce():
     jayz = str(input("do you love Beyonce? (Y/N): "))
     while jayz == 'N':
     
