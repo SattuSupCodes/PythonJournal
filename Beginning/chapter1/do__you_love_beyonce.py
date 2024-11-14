@@ -21,3 +21,4 @@ beyonce()
     #       i  is struggling with a minor inconvenience in this code but ik I'll figure it out hehehehehe 
     
     # coding should be fun why am i crying huhuhuhhahaha ye toh khushi ke aansu hai re pagli 
+    # i forgor what i was suppose to code in this function
