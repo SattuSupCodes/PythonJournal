@@ -1,0 +1,1 @@
+print("sattu humari satturita")
