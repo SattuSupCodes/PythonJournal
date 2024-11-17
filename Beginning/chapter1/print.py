@@ -5,3 +5,5 @@ if x>18:
     print("how dare you")
 else:
     print("aww sweetie")
+    
+    # atp im a scam
