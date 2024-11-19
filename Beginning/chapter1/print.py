@@ -6,4 +6,4 @@ if x>18:
 else:
     print("aww sweetie")
     
-    # atp im a scam
+    # atp im a scam, rainismmmmmmmmmmmmmmmmmmmmm
