@@ -19,7 +19,7 @@ for i in range(len(d)):
     if(i==0):
         ET.append(d[i][1][1])
  
-    # get prevET + newBT
+    # get prevET + newBT idk anything
     else:
         ET.append(ET[i-1] + d[i][1][1])
  
