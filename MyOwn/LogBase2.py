@@ -9,4 +9,4 @@ y = float(input("log base y (x) , y =  "))
 
 logValue = math.log(x,y)
 
-print(logValue)
+print(logValue) #hahahahahaha what a brain
