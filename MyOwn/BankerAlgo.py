@@ -53,3 +53,4 @@ if is_safe:
     print("Safe sequence:", ' -> '.join(f"P{p}" for p in sequence))
 else:
     print("System is in a DEADLOCK state.")
+#  cheat code jajajajajaajaj
